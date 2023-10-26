@@ -1,7 +1,6 @@
 import React from 'react'
 import Sidebar from '../components/Sidebar'
 import Chat from '../components/Chat'
-import BG from '../img/bg.jpg'
 
 const Home = () => {
   return (
